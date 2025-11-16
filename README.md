@@ -1,4 +1,4 @@
-# cyber-security-internship-task1
+# cyber-security-internship
 Network scanning using Nmap and basic port analysis
 # CYBER SECURITY INTERNSHIP — Task 1
 
